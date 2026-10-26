@@ -107,7 +107,8 @@ Users can immediately see **why** a site was flagged—e.g., excessive subdomain
 ### 1. Verified Legitimate Website Detection
 > *Instant allowlist validation with 100% confidence and verified security badges.*
 
-![PhishLens Legitimate Site Detection](assets/legit_site.jpg)
+<img width="1912" height="962" alt="image" src="https://github.com/user-attachments/assets/0dc3f9f9-81e3-48f9-815a-b386dc4c49b1" />
+
 
 ---
 
